@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/pi4j-library-linuxfs-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/pi4j-plugin-linuxfs-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/BLONWINER_processing_io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
